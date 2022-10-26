@@ -1,8 +1,8 @@
 # Cursor: "Homework 18" (Andrey Kiyas)
 ___
 ### Git link(s):
-- [Pull request 01 (HW)](https://github.com/andrey-kiyas/CursorHomeWorks18/pull/1)
-- [Pull request 02 (HW)](https://github.com/andrey-kiyas/CursorHomeWorks18/pull/2)
+- [Pull request 01 (Produser)](https://github.com/andrey-kiyas/CursorHomeWorks18/pull/1)
+- [Pull request 02 (Consumer)](https://github.com/andrey-kiyas/CursorHomeWorks18/pull/2)
 ___
 ### EN
 Create a processor service that will push messages to the topic, and 1-2 consumers that will read from this topic
